@@ -92,7 +92,7 @@ This will insert 5–6 example sites into the database.
 ## Screenshots
 
 **App view:**
-<img src="https://github.com/noa123715/Sites/blob/main/screenshot/sites.png"> 
+<img src="https://github.com/noa123715/Sites/blob/main/server/screenshot/sites.png"> 
 
 ---
 
