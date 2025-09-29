@@ -1,4 +1,4 @@
-# SITES Project
+# Sites Project
 
 ## Overview
 The **Sites** project is a full-stack application that allows users to manage a list of websites. It includes a **Node.js + Express server** connected to a **MongoDB** database, and a simple **client-side interface** (Vanilla JS or React) to display and interact with the data.
@@ -91,9 +91,8 @@ This will insert 5–6 example sites into the database.
 
 ## Screenshots
 
-**Example client table view:**
-
-![Sites Table](./screenshot.png)
+**App view:**
+<img src="https://github.com/noa123715/Sites/blob/main/screenshot/sites.png"> 
 
 ---
 
