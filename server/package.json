@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server to a sites app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noa123715/Sites.git"
+  },
+  "keywords": [
+    "sites"
+  ],
+  "author": "Noa Abecassis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noa123715/Sites/issues"
+  },
+  "homepage": "https://github.com/Noa123715/Sites#readme"
+}
